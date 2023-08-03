@@ -1,0 +1,10 @@
+
+# Vim
+*.swp
+*.swo
+*.swpx
+
+# Hugo
+*.lock
+public/
+
